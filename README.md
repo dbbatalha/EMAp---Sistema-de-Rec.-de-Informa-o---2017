@@ -1,1 +1,2 @@
-# EMAp_Sistema_Rec._de_Informacao_2017
+# EMAp - Sistema de Recuperção de Informação 2017
+Listas de exercícios da Disciplina
